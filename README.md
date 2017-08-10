@@ -1,0 +1,5 @@
+# TestForIBInspectable
+test for IBInspectable and IBInspectable
+
+测试了IBInspectable和IBInspectable。经测试发现直接对系统控件添加catagory并设置IBInspectable和IBInspectable，在xib中是可以进行可视化的调整，但是xib
+上没有变化，debug后模拟器或真机上可以显示出效果。
